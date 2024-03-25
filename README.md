@@ -1,4 +1,4 @@
-# Afk Arema bot (First project)
+# Afk Arena bot (First project)
 ## History of project
 I started learning Java language in 2022 7 September. After I mastered the basic syntax of the Java language, I began to learn Object oriented programming. I had a lack of practice to master OOP, so I decided to start making my own pet project. And I decided to create Telegram bot for me, what can calculate my resources for the future considering many factors. It took 2 month for learning basic knowledges of Java.
 ## Bot Functionality
